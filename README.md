@@ -1,8 +1,3 @@
-
-Manoj Agarwal <manojagrawal29092005@gmail.com>
-15:25 (2 minutes ago)
-to agrawal29092005
-
 # AI Test Agent - Founding Engineer Assignment
 
 An AI-driven testing agent designed to convert natural language test descriptions into structured, executable browser actions and assertions. This implementation addresses the TestSwiftly evaluation criteria by combining LLM reasoning, page screenshot context, and DOM reduction techniques.
